@@ -1,0 +1,6 @@
+ID,Name,ExamScore,AssignedGrade
+101,Sam,95.0,A
+200,Mia,85.0,B
+110,Thomas,90.0,A
+300,Tony,100.0,A
+250,Bruce,123.0,A
